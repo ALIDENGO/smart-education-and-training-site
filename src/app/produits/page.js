@@ -5,7 +5,7 @@ export default function Produits() {
     <section>
       <h1>Nos produits</h1>
       <ul>
-        <li>Écrans interactifs 65–98”</li>
+        <li>Écrans interactifs 65–75-86”</li>
         <li>OPS Windows / Android</li>
         <li>Supports fixes et mobiles</li>
         <li>Caméras, micros, haut-parleurs</li>
