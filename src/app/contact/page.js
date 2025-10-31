@@ -1,7 +1,9 @@
+'use client';
+
 export const metadata = { title: "Contact — SMART EDUCATION AND TRAINING" };
 
-const EMAIL = "contact@example.com";     // <-- change par ton email
-const PHONE = "+33 1 23 45 67 89";       // <-- change par ton numéro
+const EMAIL = "contact@example.com";     // <-- remplace par ton email
+const PHONE = "+33 1 23 45 67 89";       // <-- remplace par ton numéro
 
 export default function Contact() {
   return (
